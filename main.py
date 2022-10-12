@@ -15,7 +15,6 @@ if s.isdigit():
             print("карта корректнм")
         else:
             print("карта некорректна")
-            print(sum2)
     else:
         print("Карта неикорреткна")
 else:
